@@ -14,13 +14,15 @@ Note: This course is work in progress!
 2. [Block diagrams](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/2020-1-Summer/text/jupyter/CE_2020_Block_Diagram.ipynb)
 3. [BIBO Stability](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/2020-1-Summer/text/jupyter/CE_2020_BIBO-Stability.ipynb)
 4. [Routh-Hurwitz Criterion](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/2020-1-Summer/text/jupyter/CE_2020_Routh_Hurwitz.ipynb)
-
+5. [Digital control: Zero-order hold and Tustin approximation](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/src/juypter/CE_2020_Digital_Control_frequency_domain.ipynb)
 
 ## State-space methods
 1. [Multivariate mechanical oscillator](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/2020-1-Summer/text/jupyter/CE_2020_State_Space_Modeling.ipynb)
+2. [Example: Digital control with pole placement](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/src/juypter/CE_2020_Digital_Control_state_space_example_1.ipynb)
 
 ## Nonlinear Systems
-
+1. [Example 1: Nonlinear Systems](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/src/juypter/CE_2020_Nonlinear_System_example_1.ipynb)
+2. [Example 2: Nonlinear Systems](https://nbviewer.jupyter.org/github/stephans3/control-engineering-edu/blob/master/src/juypter/CE_2020_Nonlinear_System_example_2.ipynb)
 
 ## Julia Libraries
 Please take a look on the following projects for more information:
